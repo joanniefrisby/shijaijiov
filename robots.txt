@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zohdaerei.limeadelabs.com/sitemap.xml
